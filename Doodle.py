@@ -21,7 +21,7 @@ cv2.putText(img, 'Double Right Click-->New Blank Page', (10, 350), font, 1.5, (0
 cv2.putText(img, 'Press s-->Save Doodle', (10, 400), font, 1.5, (0, 0, 0), 2, cv2.LINE_AA)
 cv2.putText(img, 'Press Esc-->Exit Without Saving', (10, 450), font, 1.5, (0, 0, 0), 2, cv2.LINE_AA)
 cv2.putText(img, 'DOUBLE CLICK TO START!!', (10, 500), font, 1.5, (255, 0, 0), 2, cv2.LINE_AA)
-cv2.putText(img, 'Developed by ABC XYZ', (750, 780), font, 1.5, (255, 0, 255), 2, cv2.LINE_AA)
+cv2.putText(img, 'Developed by Krishiv Dakwala', (750, 780), font, 1.5, (255, 0, 255), 2, cv2.LINE_AA)
 colors = [(255, 0, 0), (0, 255, 0), (0, 0, 255), (0, 255, 255), (255, 255, 255), (0, 0, 0), (148, 0, 211)
           , (220, 220, 220)]
 brush_color = colors[5]
